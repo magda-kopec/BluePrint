@@ -11,7 +11,7 @@ import SwiftUI
 struct BluePrintApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainRootView()
         }
     }
 }
